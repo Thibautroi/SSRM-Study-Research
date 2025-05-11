@@ -1,3 +1,0 @@
-Island: BonneSante, City: Maeva, House Number: 494
-Island: Providence, City: Reading, House Number: 586
-Island: Ironbard, City: Helvig, House Number: 296
