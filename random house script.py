@@ -15,7 +15,7 @@ def randomfunc():
     
     return island_name, city_name, house_number
 
-def generate_random_houses(n=60, filename="random_houses.txt"):
+def generate_random_houses(n=30, filename="random_houses.txt"):
     houses = [randomfunc() for _ in range(n)]
     
     with open(filename, "w") as file:
